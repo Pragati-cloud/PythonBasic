@@ -6,5 +6,12 @@ This repository contains fundamental concepts of Python programming, ideal for b
 - ✅ Data Types  
 - ✅ Operators  
 - ✅ Semantics  
+- ✅ Built-in Data Structures (Lists, Tuples, Sets, Dictionaries)  
+- ✅ Functions  
+- ✅ File Handling  
+- ✅ Exception Handling  
+- ✅ Importing & Creating Modules and Packages  
 
-Whether you're just starting your Python journey or revisiting the basics, this resource offers a clear and concise foundation.
+This series is updated **daily** — make sure to check back regularly for new practice questions!
+
+
