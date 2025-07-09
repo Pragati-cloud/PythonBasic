@@ -10,7 +10,8 @@ This repository contains fundamental concepts of Python programming, ideal for b
 - ✅ Functions  
 - ✅ File Handling  
 - ✅ Exception Handling  
-- ✅ Importing & Creating Modules and Packages  
+- ✅ Importing & Creating Modules and Packages
+- ✅ Object-oriented programming (OOP)
 
 This series is updated **daily** — make sure to check back regularly for new practice questions!
 
